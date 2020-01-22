@@ -1,0 +1,20 @@
+{
+  "name": "google-drive-test",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "react-navigation": "2.0.0",
+    "react-xml-parser": "1.0.8",
+    "expo-google-app-auth": "8.0.0",
+    "react-native-elements": "0.19.1"
+  }
+}
